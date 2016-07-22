@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+    <LinearLayout
+        android:id="@+id/listHeader"
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:orientation="vertical">
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <android.support.v4.view.ViewPager
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                android:id="@+id/viewShow">
+            </android.support.v4.view.ViewPager>
+
+        </FrameLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:text="今日推荐"
+            android:gravity="center_vertical"
+            android:textColor="#32CD32"
+            />
+    </LinearLayout>
+</LinearLayout>

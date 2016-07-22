@@ -1,0 +1,89 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".fragment.HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#8bc34a"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:scaleType="centerInside"
+                    android:src="@mipmap/ic_action_search"/>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="#8bc34a"
+                android:fontFamily="sans-serif"
+                android:gravity="center"
+                android:text="欢迎来到·肌饿~\\(^o^)/"
+                android:textColor="#FFF"
+                android:textSize="18sp"
+                android:textStyle="bold"/>
+
+            <LinearLayout
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:orientation="vertical">
+
+                <ImageView
+
+                    android:id="@+id/dh"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:scaleType="centerInside"
+                    android:src="@mipmap/ic_action_view_as_grid"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!--<android.support.v7.widget.RecyclerView-->
+        <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:id="@+id/rv_list"-->
+        <!--/>-->
+
+            <!--<android.support.v4.view.ViewPager-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="400dp"-->
+                <!--android:id="@+id/viewShow">-->
+
+            <!--</android.support.v4.view.ViewPager>-->
+            <!--<TextView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:id="@+id/tuijian"-->
+                <!--android:layout_height="50dp"-->
+                <!--android:text="今日推荐"-->
+                <!--android:gravity="center_vertical"-->
+                <!--android:textColor="#32CD32"-->
+                <!--/>-->
+
+
+        <ListView
+            android:id="@+id/lista"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </ListView>
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Hover\Desktop\MuscleHungry\app\libs\Bmob_Push_V0.8beta_20160420.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="2fe391ed9034cd023de1da05cb8da77e08b46245">
+        <dex dex="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\pre-dexed\debug\Bmob_Push_V0.8beta_20160420_74f715c9de2c63a5b92c935fe811df89d7508d27.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_cff64a1d7865070ed5faede5b5b8714636ea21be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hover\Desktop\MuscleHungry\app\libs\okio-1.4.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\pre-dexed\debug\okio-1.4.0_8e01cd25de181a244ddc33acdef2af0613d59d64.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_a92c7e00d211533bb9742055deb1900395c488b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_6e2ebe6a59b8e371428c877de44f7a0447c7ad21.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hover\Desktop\MuscleHungry\app\libs\BmobSDK_V3.4.6_0415.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="41f54bb2846705eea0de5df48ddbcba378bd54e5">
+        <dex dex="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\pre-dexed\debug\BmobSDK_V3.4.6_0415_45d5ea449947711556d16dae98903cea9c7cba23.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_a9f33388f6df0dee0f40a56c4670113623d6c5fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hover\Desktop\MuscleHungry\app\libs\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0_d1f30d591d3facd22898f6c4b3172ed06b17a840.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hover\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_5eebe6d20206c42d76b2a6f5015514b8632114b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hover\Desktop\MuscleHungry\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_fac9371e7e9ab09f0e41cfd69eec6455babc5bec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_66e07a501d044c4532120956a141994498cb0f64.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_ae5c901c2afab68c087e419171c66fe0ddb09338.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\Hover\Desktop\MuscleHungry\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_f09dfab3ec3dbcce7fdca3f9ff0b9fb10d9670e6.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="300dp"
+              android:gravity="top"
+              android:orientation="vertical">
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/st1"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="26sp"
+        android:textColor="#FFF"
+        android:textStyle="bold"
+        android:background="#22222222"
+        android:text="品味~肌饿~ 还你健康"/>
+    </FrameLayout>
+</LinearLayout>
